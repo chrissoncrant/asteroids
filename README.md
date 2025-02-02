@@ -19,6 +19,14 @@ Basic Loop consists of 3 steps:
 -   Update game world
 -   Draw the game to screen
 
+### Starting The Game:
+
+These steps are probably specific to my own environment. I am using venv as the
+virtual environment.
+
+To activate the environment: `source venv/bin/activate` To start game:
+`python3 main.py`
+
 ## Issues:
 
 If VSCode is showing pygame as not being found, even though it is working: open
